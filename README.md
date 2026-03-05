@@ -21,7 +21,7 @@
 
 - 🔭 Сейчас изучаю построение дашбордов в Power BI и углубляю свои знания в математической статистике.
 - 🚀 Ищу стажировку для развития своих навыков. Открыта к предложениям.
-- 📫 Лучший способ связаться со мной — [Telegram](https://t.me/sofia_sophie_sofya) или [gmail](mailto:sophiemikhneva@gmail.com).
+- 📫 Лучший способ связаться со мной — [Telegram](https://t.me/sofia_sophie_sofya) или [gmail: sophiemikhneva@gmail.com](mailto:sophiemikhneva@gmail.com).
 - 📄 Мое резюме - [hh.ru](https://hh.ru/resume/87cc728bff0bedc9340039ed1f4d545759704d)
 - ⚡ Участвую в хакатонах и кейс-чемпионатах.
 
