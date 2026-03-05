@@ -1,4 +1,3 @@
-## Hi there 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
   <h1>Привет, я Софья!</h1>
@@ -13,12 +12,12 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
    <a href="https://hh.ru/resume/87cc728bff0bedc9340039ed1f4d545759704d">
-    <img src="https://img.shields.io/badge/Резюме-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Resume Badge"/>
+    <img src="https://img.shields.io/badge/Резюме-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="hh.ru Badge"/>
   </a>
 </div>
 
 ### Обо мне
-Студентка 3 курса (Прикладная информатика) и участник Школы 21 от Сбера. Ищу стажировку в аналитике данных, чтобы расти и развиваться, как профессионал, а так же получить практический опыт.
+Студентка 3 курса (Прикладная информатика) и участник Школы 21 от Сбера. Ищу стажировку в аналитике данных, чтобы получить практический опыт.
 
 - 🔭 Сейчас изучаю построение дашбордов в Power BI и углубляю свои знания в математической статистике.
 - 🚀 Ищу стажировку для развития своих навыков. Открыта к предложениям.
@@ -28,7 +27,7 @@
 
 ---
 
-### Мой стек
+### 📌 Мой стек
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -36,13 +35,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <!-- Добавьте иконки для BI инструментов, если найдете на Devicon. Если нет, можно добавить текстом или поискать на другом ресурсе, например, https://simpleicons.org/ -->
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" title="Power BI" alt="PowerBI" width="100" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Seaborn" alt="Seaborn" width="100" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" title="Matplotlib" alt="Matplotlib" width="100" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
 </div>
-
+Так же: 
+ - Хорошо понимаю продуктовые метрики, A/B тесты, статистику.  
+ - Активно применяю эти навыки в работе.
 
 ### 🚀 Мои пет-проекты
 
