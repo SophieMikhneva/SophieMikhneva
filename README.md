@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
    <a href="https://hh.ru/resume/87cc728bff0bedc9340039ed1f4d545759704d">
-    <img src="https://img.shields.io/badge/Резюме-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="hh.ru Badge"/>
+    <img src="https://img.shields.io/badge/hh.ru-0A66C2?style=for-the-badge&logo=readme&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
 
