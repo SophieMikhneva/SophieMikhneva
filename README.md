@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://t.me/sofia_sophie_sofya">
+  <a href="https://t.me/sophie_mik">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="mailto:sophiemikhneva@gmail.com">
@@ -21,7 +21,7 @@
 
 - 🔭 Сейчас изучаю построение дашбордов в Power BI и углубляю свои знания в математической статистике.
 - 🚀 Ищу стажировку для развития своих навыков. Открыта к предложениям.
-- 📫 Лучший способ связаться со мной — [Telegram](https://t.me/sofia_sophie_sofya) или [gmail: sophiemikhneva@gmail.com](mailto:sophiemikhneva@gmail.com).
+- 📫 Лучший способ связаться со мной — [Telegram](https://t.me/sophie_mik) или [gmail: sophiemikhneva@gmail.com](mailto:sophiemikhneva@gmail.com).
 - 📄 Мое резюме - [hh.ru](https://hh.ru/resume/87cc728bff0bedc9340039ed1f4d545759704d)
 - ⚡ Участвую в хакатонах и кейс-чемпионатах.
 
